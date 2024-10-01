@@ -1,3 +1,3 @@
 # VBA-challenge
 ASU BC challenge module2
-This is practice for ASUBC involving two excel sheets.
+Xpert assisted in this development
